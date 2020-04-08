@@ -1,0 +1,96 @@
+body{
+margin: 0cm;
+background-image: url(naruto_uchiha_itachi_sharingan_figure_night_red_moon_birds_41763_1280x720.jpg);
+background-size:cover;
+padding: 0cm;
+font-family: sans-serif;
+}
+.avatar{
+    max-width: 2cm ;
+    max-height: 3cm;
+    position: relative;
+    top: -1cm;
+    left:3cm ;
+    border-radius: 50%;
+}
+.loginbox{
+    width: 320px;
+    height: 420px;
+    background: #000;
+    color: #fff;
+    top:40%;
+    left:40%;
+    position: absolute;
+    opacity: 70%;
+    transform: translate(-10%,-40%);
+    box-sizing: border-box;
+}
+.login{
+    text-align: center;
+    font-family: cursive;
+    position: absolute;
+    top: 0.6cm;
+    left: 1.3cm;
+}
+.form{
+    
+    font-size: 22px;
+    padding-left:1cm;
+
+}
+.button{
+    width: 90%;
+    margin-bottom: 2mm;
+    height: 40px;
+    background-color: red;
+    color:rgb(0, 0, 0);
+    border: none;
+    font-size: 25px;
+    font-style: cursive;
+    outline: none;
+    border-radius: 20px;
+   
+}
+.username{
+    width: 90%;
+    margin-top: 0cm;
+    border: none;
+    border-bottom: 1px solid#fff;
+    background: transparent;
+    outline: none;
+    color: white;
+   
+}
+.password{
+    width: 90%;
+    margin-bottom: 3mm;
+    border: none;
+    outline: none;
+    background : transparent;
+    border-bottom: 1px solid #fff;
+    color: white;
+}
+.button:hover{
+    cursor: pointer;
+    background: #ffc107 ;
+    
+}
+.recovceryPassword{
+border: none;
+
+
+}
+.recovceryPassword:hover{
+cursor: pointer;
+background-color: #ffc107;
+
+
+}
+.signUp:hover{
+    cursor: pointer;
+    background-color: #ffc107;
+
+
+
+
+}
